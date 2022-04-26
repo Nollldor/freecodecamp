@@ -1,4 +1,4 @@
-const myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; // Change this line
+const myStr = "FirstLine\n\t\\\nThirdLine"; // Change this line
 /*
 \'	single quote
 \"	double quote
