@@ -4,5 +4,5 @@ let c = 12;
 
 // Only change code below this line
 a += 12;
-b += b;
+b += 9;
 c += 7;
