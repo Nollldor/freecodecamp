@@ -1,0 +1,1 @@
+let timesFive = (n) => n*5;
